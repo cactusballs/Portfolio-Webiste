@@ -1,10 +1,5 @@
 Portfolio project WIP
 
-Currenty working on - 
-making navbar universal across all pages 
-content 
-Javascript features 
-add in images for projects
-create as fullstack 
+It was working but I've decided to refactor into Fullstack so currently it looks like hot rubbish!
 
-Live site - https://cactusballs.github.io/Portfolio-Webiste/
+
